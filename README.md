@@ -1,5 +1,9 @@
 
 <div align="center">
+  <img src="https://placehold.co/1200x350/10172a/FFFFFF?text=AMONG+US+%7C+SPACE+CREWMATE" width="100%" alt="Space banner placeholder">
+</div>
+
+<div align="center">
 
 # 🚀 Hey, I'm Abhijeet!
 
@@ -22,11 +26,16 @@
 
 <img src="https://skillicons.dev/icons?i=python,html,github,git" alt="Programming tools" />
 
-### 🪐 MY PROJECTS
 
-[![Atomverse](https://img.shields.io/badge/ATOMVERSE-Explore-36BCF7?style=for-the-badge)](https://github.com/zxpabhi-lgtm/atomverse)
+<h3>🪐 MY PROJECTS</h3>
 
-[![Shadow Strike FPS](https://img.shields.io/badge/SHADOW_STRIKE-FPS-red?style=for-the-badge)](https://github.com/zxpabhi-lgtm/shadow-strike-fps)
+<a href="https://github.com/zxpabhi-lgtm/atomverse">
+  <img src="https://img.shields.io/badge/ATOMVERSE-Explore-36BCF7?style=for-the-badge" alt="Atomverse">
+</a>
+
+<a href="https://github.com/zxpabhi-lgtm/AbhijeetCLI">
+  <img src="https://img.shields.io/badge/ABHIJEETCLI-Explore-FF4757?style=for-the-badge" alt="AbhijeetCLI">
+</a>
 
 ---
 
