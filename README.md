@@ -1,171 +1,210 @@
+ <div align="center">
 
-<!--
-    ABHIJEET'S GITHUB PROFILE
-    Theme: Midnight Blue + Lavender + Funny GIFs
--->
+<img src="https://media1.tenor.com/m/RTfHqMDf-_EAAAAd/anya-forger.gif" width="220" alt="Anya Forger being cute"/>
 
-<div align="center">
+# 🌸 WAKU WAKU!! 🌸
+### ✨ Welcome to Abhijeet's Secret Anime Laboratory ✨
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,50:1e293b,100:6366f1&text=Abhijeet&fontColor=e2e8f0&fontSize=55&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20Dreamer&descAlignY=58&animation=fadeIn" width="100%" alt="Animated header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=23&duration=1800&pause=500&color=FF69B4&center=true&vCenter=true&width=550&lines=Heh.+You+found+my+secret+base!;I+am+a+professional+bug+creator+%F0%9F%90%9B;Peanuts+%3E+Production+%F0%9F%A5%9C;Coding+is+waku+waku!;Mission%3A+Become+an+AI+Engineer+%F0%9F%A4%96" alt="Animated typing text"/>
 
-<!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=A5B4FC&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Abhijeet+%F0%9F%91%8B;Code.+Create.+Repeat.;Learning+Python+%F0%9F%90%8D;Future+AI%2FML+Engineer+%F0%9F%A4%96;Welcome+to+my+digital+universe+%F0%9F%8C%8C" alt="Animated typing"/>
+<img src="https://media.tenor.com/RTfHqMDf-_EAAAAd/anya-forger.gif" width="150" alt="Anya reaction"/>
 
-<br/>
+**Name:** Abhijeet  
+**Codename:** `zxpabhi-lgtm` 🕵️  
+**Occupation:** Student by day, bug creator by night  
+**Dream:** AI/ML Engineer 🤖  
+**Weakness:** Peanuts 🥜  
+**Brain status:** 1% serious, 99% WAKU WAKU!
 
-<!-- ANIMATED CODING GIFS -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding animation"/>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="190" alt="Programmer animation"/>
-
-<br/>
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="Technology animation"/>
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Funny coding animation"/>
-
-<br/>
-
-*「 A curious mind in an infinite digital universe. 」*
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zxpabhi-lgtm)
-[![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=9cc9ff)](https://www.python.org/)
-[![Profile Views](https://komarev.com/ghpvc/?username=zxpabhi-lgtm&style=flat-square&color=818cf8&label=VISITORS)](https://github.com/zxpabhi-lgtm)
+[![Profile Views](https://komarev.com/ghpvc/?username=zxpabhi-lgtm&label=Secret%20Mission%20Visitors&color=ff69b4&style=for-the-badge)](https://github.com/zxpabhi-lgtm)
 
 </div>
 
 ---
 
-## 😂 Real-Life Reaction Zone
+## 🩷 MEET THE CHAOS GREMLIN
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/10f8c3q3gCacBK/giphy.gif" width="150" alt="Funny reaction"/>
-<img src="https://media.giphy.com/media/3o7TKq3qy3EEX8Fc1K/giphy.gif" width="150" alt="Laughing reaction"/>
-<img src="https://media.giphy.com/media/xT1XGz8hC0VUvE6GPa/giphy.gif" width="150" alt="Surprised reaction"/>
+<img src="https://media1.tenor.com/m/RTfHqMDf-_EAAAAd/anya-forger.gif" width="180" alt="Anya being silly"/>
 
-### Me when my code works on the first try 💀
+### Anya's extremely accurate description of me:
 
-<img src="https://media.giphy.com/media/l2JHXV7RlOv1TtJCE/giphy.gif" width="240" alt="Facepalm reaction"/>
+**When the code works:**
 
-**Me debugging one error for 3 hours:**
+WAKU WAKU!! ✨🎉
 
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="220" alt="Funny reaction GIF"/>
+**When the code doesn't work:**
 
-*It was a missing bracket.*
+HEH. I meant to do that. 😭
+
+**When the teacher says there is a surprise test:**
+
+Mission failed. Retreat. RETREAT!!!
 
 </div>
 
 ---
 
-## 🌙 About Me
+## 🧠 ABOUT ME (TOP SECRET)
 
-<div align="center">
+- 🧑‍💻 Currently learning Python and exploring programming.
+- 🤖 On a mission to become an AI/ML Engineer.
+- 🌌 Building cool projects instead of touching grass.
+- 🕵️ Trying to understand GitHub without accidentally deleting everything.
+- 🥜 Accepting peanut donations as project funding.
+- 💖 Powered by curiosity, anime, and questionable amounts of determination.
+- 🐛 Bugs are my unpaid coding assistants.
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180" alt="Coding GIF"/>
+### My daily schedule
 
-</div>
-
-- 👋 Hey, I'm **Abhijeet**.
-- 🎓 Student and aspiring developer.
-- 🐍 Learning Python and programming fundamentals.
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 🌌 Fascinated by space, science, and technology.
-- 🎯 Dreaming of becoming an AI/ML engineer.
-
-### 💭 My Developer Mindset
-
-```python
-class Abhijeet:
-    def __init__(self):
-        self.name = "Abhijeet"
-        self.learning = ["Python", "Git", "AI/ML"]
-        self.motivation = float("inf")
-
-    def keep_learning(self):
-        while True:
-            try:
-                self.learn()
-                self.build()
-            except Exception:
-                self.debug()
-```
+| Time | Mission |
+|---|---|
+| 🌞 Morning | Become smarter |
+| 💻 Afternoon | Write code |
+| 🐛 Any time | Meet a new bug |
+| 😭 3 AM energy | Why is there a semicolon? |
+| 🥜 Emergency | PEANUT BREAK |
 
 ---
 
-## ⚡ My Projects
+## 🎭 MY EMOTIONAL SUPPORT ANIME GIFS
 
 <div align="center">
 
-<a href="https://github.com/zxpabhi-lgtm/Atomverse">
-<img src="https://img.shields.io/badge/⚛️_ATOMVERSE-1e293b?style=for-the-badge&logoColor=white" alt="Atomverse"/>
-</a>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<a href="https://github.com/zxpabhi-lgtm/AbhijeetCLI">
-<img src="https://img.shields.io/badge/⌨️_ABHIJEETCLI-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="AbhijeetCLI"/>
-</a>
+### 😏 When the code works
 
-<a href="https://github.com/zxpabhi-lgtm">
-<img src="https://img.shields.io/badge/🌌_COSMOS_UNBOUND-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="COSMOS UNBOUND"/>
-</a>
+<img src="https://media.tenor.com/RTfHqMDf-_EAAAAd/anya-forger.gif" width="180" alt="Anya reaction"/>
+
+*I am a genius. Obviously.*
+
+</td>
+<td align="center" width="50%">
+
+### 💀 When the code breaks
+
+<img src="https://media.tenor.com/RTfHqMDf-_EAAAAd/anya-forger.gif" width="180" alt="Anya reaction"/>
+
+*This was not in the tutorial.*
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🥜 When someone says peanuts
+
+<img src="https://media1.tenor.com/m/RTfHqMDf-_EAAAAd/anya-forger.gif" width="180" alt="Anya GIF"/>
+
+*MISSION ACCEPTED.*
+
+</td>
+<td align="center">
+
+### 📚 When homework appears
+
+<img src="https://media1.tenor.com/m/RTfHqMDf-_EAAAAd/anya-forger.gif" width="180" alt="Anya GIF"/>
+
+*I suddenly cannot read.*
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🧰 Tech World
+## 🚀 MY PROJECTS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode&theme=dark" alt="My technology stack"/>
+### 🌌 COSMOS UNBOUND
+A space encyclopedia for curious minds. The universe is huge; my curiosity is huger.
+
+[![Explore COSMOS UNBOUND](https://img.shields.io/badge/🌌_COSMOS_UNBOUND-Explore-ff9bcf?style=for-the-badge)](https://github.com/zxpabhi-lgtm)
+
+### ⚛️ Atomverse
+Exploring the 118 elements because chemistry deserves some WAKU WAKU too!
+
+[![Explore Atomverse](https://img.shields.io/badge/⚛️_ATOMVERSE-Explore-f8b4d9?style=for-the-badge)](https://github.com/zxpabhi-lgtm/Atomverse)
+
+### 💻 AbhijeetCLI
+My very own command-line project. Tiny commands, big dreams.
+
+[![Explore AbhijeetCLI](https://img.shields.io/badge/💻_ABHIJEETCLI-Explore-ff69b4?style=for-the-badge)](https://github.com/zxpabhi-lgtm)
+
+</div>
+
+---
+
+## 🧪 MY TECHNICAL SUPERPOWERS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=light" alt="Programming technology icons"/>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="270" alt="Animated tech GIF"/>
+![Python](https://img.shields.io/badge/Python-Learning-ffd166?style=for-the-badge&logo=python&logoColor=3776AB)
+![GitHub](https://img.shields.io/badge/GitHub-Secret_Base-ff69b4?style=for-the-badge&logo=github&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Next_Mission-e9a1ff?style=for-the-badge&logo=robot&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Universe
+## 📊 ANIME PROTAGONIST STATISTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zxpabhi-lgtm&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=93c5fd&text_color=c9d1d9" width="95%" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zxpabhi-lgtm&show_icons=true&theme=omni&title_color=ff69b4&icon_color=ff8ac7&border_color=ffc0cb&border_radius=15&count_private=true" alt="GitHub statistics"/>
 
-<br/><br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxpabhi-lgtm&layout=compact&theme=omni&title_color=ff69b4&border_color=ffc0cb&border_radius=15" alt="Most used languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxpabhi-lgtm&layout=compact&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zxpabhi-lgtm&bg_color=0d1117&color=a5b4fc&line=818cf8&point=c4b5fd&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
+<img src="https://streak-stats.demolab.com?user=zxpabhi-lgtm&theme=omni&ring=ff69b4&fire=ff8ac7&currStreakLabel=ff69b4&border=ffc0cb&border_radius=15" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 🌌 A Little More Chaos
+## 🥜 THE OFFICIAL PEANUT FOUNDATION
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="230" alt="Funny programming animation"/>
+<img src="https://media1.tenor.com/m/RTfHqMDf-_EAAAAd/anya-forger.gif" width="200" alt="Anya GIF"/>
 
-<br/>
+### Every star is a peanut in disguise. ⭐
 
-**404: Sleep not found**
+If you like my projects:
 
-`while(alive) { code(); eat(); repeat(); }`
+- ⭐ Give them a star.
+- 🍴 Fork something interesting.
+- 💬 Share ideas or report bugs.
+- 🩷 Keep learning and stay curious.
+
+**Remember:** A day without coding is a day without discovering 17 new bugs.
 
 </div>
 
 ---
 
+## 🕵️ END OF SECRET TRANSMISSION
+
 <div align="center">
 
-*✦ Thanks for visiting my little corner of GitHub ✦*
+<img src="https://media1.tenor.com/m/RTfHqMDf-_EAAAAd/anya-forger.gif" width="180" alt="Anya Forger GIF"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6366f1,50:1e293b,100:0d1117" width="100%" alt="Profile footer"/>
+### You saw nothing. 👀
+
+**Mission status:** WAKU WAKU!
+
+*This profile is protected by Anya's mind-reading powers.*
+
+<sub>Made with 💗, Python, and an unreasonable amount of peanuts.</sub>
 
 </div>
